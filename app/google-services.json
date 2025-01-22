@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "146443270371",
+    "firebase_url": "https://mototur-3863f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mototur-3863f",
+    "storage_bucket": "mototur-3863f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146443270371:android:40a5fd1990c80e18f3add6",
+        "android_client_info": {
+          "package_name": "com.moto.tour.bike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3-UyNEGsHm2QWUP3_O5GrKhactTZUIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
