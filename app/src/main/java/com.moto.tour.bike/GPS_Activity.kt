@@ -62,7 +62,7 @@ class GPS_Activity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        MapKitFactory.setApiKey("e9b3882f-b34a-49f0-ab16-9bca61f63e5d")
+        MapKitFactory.setApiKey("Ваш апи ключ Yandex Mapkit")
         MapKitFactory.initialize(this)
         setContentView(R.layout.gps_activity)
         FirebaseApp.initializeApp(this)
