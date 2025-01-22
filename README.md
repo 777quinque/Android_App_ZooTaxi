@@ -16,3 +16,4 @@
 
 ![Без имени-11](https://github.com/user-attachments/assets/e676c844-b3e6-421b-b65b-40fa50faef68)
 
+Чтобы использовать это приложение просто создайте проект в Firebase и включите там Firebase Auth и Realtime database, дальше просто вставьте JSON в папку проекта и все готово. Также в GPS_Activity впишите ваш api ключ Yandex Mapkit.
